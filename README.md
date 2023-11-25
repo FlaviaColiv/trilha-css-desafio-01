@@ -9,4 +9,4 @@ as propriedades básicas da linguagem de estilização, além de trabalhar com a
 
 [Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio.
 
-Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch [*final*](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/).
+Caso tenha alguma dúvida, ou queira comparar o resultado do desafio, nós temos o site finalizado na branch [*final*](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/).
