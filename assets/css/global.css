@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+
+* {
+  box-sizing: border-box;
+  font-family: 'Raleway', sans-serif;
+  margin: auto;
+}
+
+:root {
+  --cor-global: #33A8DB;
+
+  --cor-escuro: #000000;
+  --cor-claro: #ffffff;
+
+  --cor-banner-grad-1: #00000060;
+  --cor-banner-grad-2: #31A8DD20;
+
+  --cor-h1-2: #1472B7;
+
+  --cor-banner: #00000020;
+
+  --cor-button-grad-1: #3BA1CD;
+  --cor-button-grad-2: #1572B7;
+  --cor-button-texto: #31A8DD;
+
+  --cor-module-shadow: #00000066;
+  --cor-module-fundo: #252525;
+
+}
+
